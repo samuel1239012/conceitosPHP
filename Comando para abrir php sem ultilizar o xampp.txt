@@ -1,0 +1,1 @@
+php -S localhost:8000 //comando para abrir o php sem necessitar do xampp; Colocar esse comando na barra de informações do explorador de arquivo na pasta local do senac.
